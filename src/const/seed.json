@@ -1,0 +1,2522 @@
+[
+  {
+    "property": [
+      {
+        "id": "64ebfb3c-7119-4033-b49f-010407271d03",
+        "title": "Cozy Cottage",
+        "location": "Beachfront",
+        "price": 73220,
+        "size": 81324,
+        "created_at": "2023-08-18T12:42:25.913Z",
+        "updated_at": "2023-08-18T12:33:36.763Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "b7346c40-0892-40b2-beb6-2182856110bd",
+        "title": "Luxury Villa",
+        "location": "City Center",
+        "price": 16379,
+        "size": 14721,
+        "created_at": "2023-08-19T00:21:55.041Z",
+        "updated_at": "2023-08-18T19:42:57.588Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "0e299a7f-9442-4cc3-9aa4-a3652e271395",
+        "title": "Modern Apartment",
+        "location": "Mountain View",
+        "price": 58001,
+        "size": 56426,
+        "created_at": "2023-08-18T19:49:26.030Z",
+        "updated_at": "2023-08-18T09:59:10.603Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "103a8a91-fe4e-49c0-8e21-51174e2cae2e",
+        "title": "Charming Bungalow",
+        "location": "Lakefront",
+        "price": 13080,
+        "size": 20009,
+        "created_at": "2023-08-19T03:02:39.529Z",
+        "updated_at": "2023-08-19T04:18:06.301Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "8699c488-3180-431e-a95d-b044164bac2b",
+        "title": "Spacious Condo",
+        "location": "Countryside",
+        "price": 25372,
+        "size": 80269,
+        "created_at": "2023-08-18T13:16:38.728Z",
+        "updated_at": "2023-08-19T03:41:12.793Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "7253ed51-319c-4b7c-a7fb-57086e9d0438",
+        "price": 33924,
+        "status": "Pending",
+        "date": "2023-08-18T20:35:52.675Z",
+        "created_at": "2023-08-18T11:03:26.615Z",
+        "updated_at": "2023-08-18T19:08:45.860Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "64ebfb3c-7119-4033-b49f-010407271d03"
+      },
+      {
+        "id": "bd44eadb-5a08-4d4f-a2d3-aa71f62b1e4a",
+        "price": 25340,
+        "status": "Accepted",
+        "date": "2023-08-19T00:29:30.873Z",
+        "created_at": "2023-08-19T01:13:08.344Z",
+        "updated_at": "2023-08-19T04:05:53.811Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "8699c488-3180-431e-a95d-b044164bac2b"
+      },
+      {
+        "id": "900b713f-d68b-4cc1-a18d-2582252d0428",
+        "price": 27847,
+        "status": "Rejected",
+        "date": "2023-08-18T10:45:18.991Z",
+        "created_at": "2023-08-18T13:45:03.009Z",
+        "updated_at": "2023-08-18T19:26:05.415Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "64ebfb3c-7119-4033-b49f-010407271d03"
+      },
+      {
+        "id": "96542f1c-1e45-4cf8-adda-eb9d4a6ce159",
+        "price": 21939,
+        "status": "Counteroffer",
+        "date": "2023-08-18T07:51:08.086Z",
+        "created_at": "2023-08-19T02:42:05.912Z",
+        "updated_at": "2023-08-18T08:51:09.075Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "8699c488-3180-431e-a95d-b044164bac2b"
+      },
+      {
+        "id": "80f62399-8526-4616-bd1f-8c3dbcf2ff82",
+        "price": 20854,
+        "status": "Expired",
+        "date": "2023-08-18T14:26:13.937Z",
+        "created_at": "2023-08-18T22:34:12.766Z",
+        "updated_at": "2023-08-18T13:02:56.808Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "8699c488-3180-431e-a95d-b044164bac2b"
+      }
+    ],
+    "interest": [
+      {
+        "id": "ee727ff7-be03-4660-bf4c-f41816ace386",
+        "date": "2023-08-19T04:24:43.257Z",
+        "created_at": "2023-08-18T07:00:30.218Z",
+        "updated_at": "2023-08-18T21:29:28.333Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "0e299a7f-9442-4cc3-9aa4-a3652e271395"
+      },
+      {
+        "id": "337e860e-e133-4521-83b1-2dc9b4d2cfd8",
+        "date": "2023-08-18T17:53:17.439Z",
+        "created_at": "2023-08-19T03:14:40.712Z",
+        "updated_at": "2023-08-18T04:54:23.534Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "8699c488-3180-431e-a95d-b044164bac2b"
+      },
+      {
+        "id": "d73e76ab-198d-4b08-bd10-9c4faeb9eba9",
+        "date": "2023-08-18T22:13:22.880Z",
+        "created_at": "2023-08-19T03:24:55.868Z",
+        "updated_at": "2023-08-18T12:10:58.055Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "103a8a91-fe4e-49c0-8e21-51174e2cae2e"
+      },
+      {
+        "id": "ef724392-0370-40e8-8eb3-d8b728a9bc65",
+        "date": "2023-08-18T13:27:32.056Z",
+        "created_at": "2023-08-18T11:18:05.755Z",
+        "updated_at": "2023-08-18T20:30:55.195Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "b7346c40-0892-40b2-beb6-2182856110bd"
+      },
+      {
+        "id": "d9903d57-4e69-4d81-bb93-7ef643a8b47f",
+        "date": "2023-08-19T00:36:30.458Z",
+        "created_at": "2023-08-18T15:28:45.056Z",
+        "updated_at": "2023-08-18T15:41:06.935Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "0e299a7f-9442-4cc3-9aa4-a3652e271395"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "6e336f64-f82f-4cb3-b17a-6bb496ded185",
+        "report": "Excellent condition with no issues found",
+        "date": "2023-08-18T21:06:51.154Z",
+        "created_at": "2023-08-19T03:26:13.908Z",
+        "updated_at": "2023-08-19T04:29:01.379Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "b7346c40-0892-40b2-beb6-2182856110bd"
+      },
+      {
+        "id": "775f8174-ad63-44aa-8cfb-87da1f20c5d8",
+        "report": "Minor repairs needed",
+        "date": "2023-08-19T04:29:47.779Z",
+        "created_at": "2023-08-18T09:12:17.044Z",
+        "updated_at": "2023-08-18T07:36:12.697Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "103a8a91-fe4e-49c0-8e21-51174e2cae2e"
+      },
+      {
+        "id": "f6c1cfad-8783-40d1-a3e4-059d982f7d56",
+        "report": "Structural damage detected",
+        "date": "2023-08-18T09:24:42.255Z",
+        "created_at": "2023-08-18T13:04:22.642Z",
+        "updated_at": "2023-08-18T18:19:56.912Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "0e299a7f-9442-4cc3-9aa4-a3652e271395"
+      },
+      {
+        "id": "e4f03ac1-48ef-42b5-9f03-428307dd3874",
+        "report": "Electrical system needs attention",
+        "date": "2023-08-18T13:02:15.272Z",
+        "created_at": "2023-08-18T08:13:34.055Z",
+        "updated_at": "2023-08-18T07:56:36.710Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "64ebfb3c-7119-4033-b49f-010407271d03"
+      },
+      {
+        "id": "ae8792b3-396f-4ee5-a6a7-0c604c3f0a8e",
+        "report": "Overall satisfactory inspection",
+        "date": "2023-08-18T07:23:34.212Z",
+        "created_at": "2023-08-18T11:10:18.631Z",
+        "updated_at": "2023-08-18T16:01:55.720Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "b7346c40-0892-40b2-beb6-2182856110bd"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d8567827-c3ae-4e98-9fc7-13d64c974e33",
+        "email": "Pedro_Luettgen91@yahoo.com",
+        "firstName": "Aaliyah",
+        "lastName": "Hamill",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81607083",
+        "tenantId": null
+      },
+      {
+        "reference": "cb6b00b9-649b-4821-8116-ecf1a4680a5e",
+        "email": "Jerrod51@yahoo.com",
+        "firstName": "Addison",
+        "lastName": "Brekke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5765182",
+        "tenantId": null
+      },
+      {
+        "reference": "d7b3daeb-0d1d-42b9-9a30-66fc1edd1076",
+        "email": "Gerhard_Barton-Aufderhar8@hotmail.com",
+        "firstName": "Damian",
+        "lastName": "Trantow",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52344055",
+        "tenantId": null
+      },
+      {
+        "reference": "5024c16f-9116-4c9c-9756-5e9e7e33259b",
+        "email": "Angelo.Fisher73@yahoo.com",
+        "firstName": "Reva",
+        "lastName": "Ernser",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15982791",
+        "tenantId": null
+      },
+      {
+        "reference": "dda10adf-1244-43b7-a2c7-bb2b8a6b26c4",
+        "email": "Sally.Skiles@gmail.com",
+        "firstName": "Linwood",
+        "lastName": "Rippin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81486686",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "a40f49e8-a830-4d28-bd72-cb3c269a6f13",
+        "title": "Beautiful Villa",
+        "location": "New York",
+        "price": 46172,
+        "size": 76629,
+        "created_at": "2023-08-18T19:06:39.119Z",
+        "updated_at": "2023-08-18T15:31:48.623Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "8de9a00a-775e-4d2d-aa81-8b8468331cf3",
+        "title": "Cozy Cottage",
+        "location": "Los Angeles",
+        "price": 17686,
+        "size": 47325,
+        "created_at": "2023-08-19T00:55:59.857Z",
+        "updated_at": "2023-08-18T09:03:37.240Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "fa59d408-7af4-4a4e-81a5-b6183cb1b374",
+        "title": "Luxury Apartment",
+        "location": "London",
+        "price": 74799,
+        "size": 75375,
+        "created_at": "2023-08-18T15:07:08.956Z",
+        "updated_at": "2023-08-19T01:51:15.285Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "415ba369-b993-4c13-9212-84803ea58234",
+        "title": "Charming Bungalow",
+        "location": "Paris",
+        "price": 14544,
+        "size": 27268,
+        "created_at": "2023-08-18T09:51:32.743Z",
+        "updated_at": "2023-08-18T17:29:01.849Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "2a4fd710-ca59-4672-ba84-3c1857c210ba",
+        "title": "Spacious Condo",
+        "location": "Sydney",
+        "price": 75045,
+        "size": 31209,
+        "created_at": "2023-08-18T23:28:29.329Z",
+        "updated_at": "2023-08-18T20:58:35.661Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "3696c51d-5c4c-463f-ae79-3ebf34eb6851",
+        "price": 75844,
+        "status": "Pending",
+        "date": "2023-08-18T12:03:36.449Z",
+        "created_at": "2023-08-18T13:49:51.600Z",
+        "updated_at": "2023-08-18T15:14:22.809Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "2a4fd710-ca59-4672-ba84-3c1857c210ba"
+      },
+      {
+        "id": "becc69b9-d5dc-4683-adda-64e996ef72ed",
+        "price": 86439,
+        "status": "Accepted",
+        "date": "2023-08-19T04:24:26.394Z",
+        "created_at": "2023-08-18T19:43:59.853Z",
+        "updated_at": "2023-08-18T15:24:39.835Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "2a4fd710-ca59-4672-ba84-3c1857c210ba"
+      },
+      {
+        "id": "5da3fdba-517b-448b-8e7b-94b6ee9d0096",
+        "price": 16628,
+        "status": "Rejected",
+        "date": "2023-08-18T05:09:16.915Z",
+        "created_at": "2023-08-19T02:00:33.726Z",
+        "updated_at": "2023-08-18T11:42:18.062Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "fa59d408-7af4-4a4e-81a5-b6183cb1b374"
+      },
+      {
+        "id": "7f9d2dea-303d-4f2c-b934-c9d3c811d349",
+        "price": 27687,
+        "status": "Counteroffer",
+        "date": "2023-08-18T12:37:46.307Z",
+        "created_at": "2023-08-18T18:07:22.949Z",
+        "updated_at": "2023-08-18T19:58:16.704Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "415ba369-b993-4c13-9212-84803ea58234"
+      },
+      {
+        "id": "0ba28c8e-7104-45da-b99e-c0f5e68fba4f",
+        "price": 86645,
+        "status": "Expired",
+        "date": "2023-08-18T14:24:59.762Z",
+        "created_at": "2023-08-18T21:29:53.398Z",
+        "updated_at": "2023-08-18T18:46:19.691Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "a40f49e8-a830-4d28-bd72-cb3c269a6f13"
+      }
+    ],
+    "interest": [
+      {
+        "id": "17c11601-bf2b-4e96-939d-cfa1996b2dd7",
+        "date": "2023-08-18T21:55:23.872Z",
+        "created_at": "2023-08-18T19:28:23.441Z",
+        "updated_at": "2023-08-18T13:38:20.710Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "a40f49e8-a830-4d28-bd72-cb3c269a6f13"
+      },
+      {
+        "id": "1a751dc8-7c9a-4f8e-a603-b35e1825c4cc",
+        "date": "2023-08-18T12:26:47.995Z",
+        "created_at": "2023-08-19T01:50:18.634Z",
+        "updated_at": "2023-08-19T00:33:05.363Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "415ba369-b993-4c13-9212-84803ea58234"
+      },
+      {
+        "id": "91612344-e907-43b0-af51-d36d8bdc1d38",
+        "date": "2023-08-18T16:28:11.546Z",
+        "created_at": "2023-08-18T19:35:29.365Z",
+        "updated_at": "2023-08-18T14:04:02.732Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "a40f49e8-a830-4d28-bd72-cb3c269a6f13"
+      },
+      {
+        "id": "6affcaa7-3e71-404b-b8a2-8f84b5a1d82f",
+        "date": "2023-08-18T11:18:38.436Z",
+        "created_at": "2023-08-18T06:44:39.919Z",
+        "updated_at": "2023-08-18T20:08:19.727Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "415ba369-b993-4c13-9212-84803ea58234"
+      },
+      {
+        "id": "7dbe9785-8498-42f2-bee3-e8adc5f2a569",
+        "date": "2023-08-18T05:34:57.944Z",
+        "created_at": "2023-08-18T23:16:19.529Z",
+        "updated_at": "2023-08-19T01:17:48.622Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "2a4fd710-ca59-4672-ba84-3c1857c210ba"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "e6f520c5-de7c-40c6-8bd6-429ebb1de5b9",
+        "report": "Excellent condition with no issues",
+        "date": "2023-08-18T07:53:19.128Z",
+        "created_at": "2023-08-18T05:03:52.908Z",
+        "updated_at": "2023-08-18T05:51:38.881Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "415ba369-b993-4c13-9212-84803ea58234"
+      },
+      {
+        "id": "7eb582ea-cbef-4dcf-8986-4c1a400e29da",
+        "report": "Minor repairs needed",
+        "date": "2023-08-18T09:00:13.116Z",
+        "created_at": "2023-08-19T04:14:14.385Z",
+        "updated_at": "2023-08-18T15:32:12.261Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "2a4fd710-ca59-4672-ba84-3c1857c210ba"
+      },
+      {
+        "id": "c337fa4c-09b3-4f5b-92a4-4d35684134cc",
+        "report": "Structural damage found",
+        "date": "2023-08-18T20:47:20.728Z",
+        "created_at": "2023-08-18T13:32:27.774Z",
+        "updated_at": "2023-08-19T00:04:21.305Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "2a4fd710-ca59-4672-ba84-3c1857c210ba"
+      },
+      {
+        "id": "56a16ab3-5802-4462-91cb-cb95cb5d280f",
+        "report": "Well-maintained and ready for occupancy",
+        "date": "2023-08-18T08:55:40.863Z",
+        "created_at": "2023-08-18T09:42:36.852Z",
+        "updated_at": "2023-08-19T01:28:31.211Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "2a4fd710-ca59-4672-ba84-3c1857c210ba"
+      },
+      {
+        "id": "489af391-db62-4c63-ac50-92220b2c6176",
+        "report": "Electrical system requires attention",
+        "date": "2023-08-18T09:43:02.504Z",
+        "created_at": "2023-08-18T10:07:37.531Z",
+        "updated_at": "2023-08-19T00:59:55.757Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "8de9a00a-775e-4d2d-aa81-8b8468331cf3"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "545d6668-72b8-4932-a096-a8c8deb8e2a9",
+        "email": "Marquise.Howell@hotmail.com",
+        "firstName": "Cora",
+        "lastName": "Wuckert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/718.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e689ee38-eb1f-45c7-a341-54999cf2f60e",
+        "email": "Jess.Koepp@gmail.com",
+        "firstName": "Tate",
+        "lastName": "Yost",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/852.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5242630f-fd64-430c-aa7c-98bd6b3112a7",
+        "email": "Maverick.Walsh@gmail.com",
+        "firstName": "Noelia",
+        "lastName": "Lueilwitz-Johnson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1054.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9103d070-06aa-4503-be45-7e6093b1eb47",
+        "email": "Victor_Bahringer@gmail.com",
+        "firstName": "Alysa",
+        "lastName": "Schuster",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36378807",
+        "tenantId": null
+      },
+      {
+        "reference": "4e0b6c69-6f41-499c-9833-9130450721a6",
+        "email": "Bettye_Ratke39@hotmail.com",
+        "firstName": "Tiara",
+        "lastName": "Mraz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/144.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "c6eb6288-9905-4d8f-b10e-64380866d062",
+        "title": "Cozy Cottage",
+        "location": "New York",
+        "price": 34619,
+        "size": 49624,
+        "created_at": "2023-08-18T11:48:44.981Z",
+        "updated_at": "2023-08-18T05:01:06.176Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "982408ff-d8a9-4f58-ab63-0fc6a3783a31",
+        "title": "Modern Apartment",
+        "location": "London",
+        "price": 75131,
+        "size": 14812,
+        "created_at": "2023-08-19T00:46:45.449Z",
+        "updated_at": "2023-08-18T16:59:42.329Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "049fa552-0d88-4b7b-b281-91f01891e89f",
+        "title": "Spacious Villa",
+        "location": "Paris",
+        "price": 98636,
+        "size": 51348,
+        "created_at": "2023-08-18T05:51:27.622Z",
+        "updated_at": "2023-08-18T12:31:30.353Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "41a1b605-cefe-4726-88e1-6e6d85901598",
+        "title": "Charming Bungalow",
+        "location": "Tokyo",
+        "price": 85102,
+        "size": 6883,
+        "created_at": "2023-08-18T12:18:40.221Z",
+        "updated_at": "2023-08-18T15:34:18.116Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "0a3ae600-5a77-43ff-a3a4-a942e273c081",
+        "title": "Luxury Penthouse",
+        "location": "Sydney",
+        "price": 71369,
+        "size": 8800,
+        "created_at": "2023-08-18T11:05:12.334Z",
+        "updated_at": "2023-08-19T00:35:08.944Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "0e366c1d-fab8-41ab-aca9-426fc767fa8e",
+        "price": 19884,
+        "status": "Pending",
+        "date": "2023-08-19T04:29:55.675Z",
+        "created_at": "2023-08-19T04:12:34.040Z",
+        "updated_at": "2023-08-18T12:29:26.906Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "c6eb6288-9905-4d8f-b10e-64380866d062"
+      },
+      {
+        "id": "cb6425c1-dc23-4862-ae8a-8a12dccc80d4",
+        "price": 28039,
+        "status": "Accepted",
+        "date": "2023-08-19T01:48:30.371Z",
+        "created_at": "2023-08-18T08:15:34.346Z",
+        "updated_at": "2023-08-18T13:41:15.238Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "41a1b605-cefe-4726-88e1-6e6d85901598"
+      },
+      {
+        "id": "4b447f61-9baf-4227-8c9b-e9e2fd363143",
+        "price": 62562,
+        "status": "Rejected",
+        "date": "2023-08-19T04:29:39.232Z",
+        "created_at": "2023-08-18T19:39:27.915Z",
+        "updated_at": "2023-08-18T18:13:53.575Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "41a1b605-cefe-4726-88e1-6e6d85901598"
+      },
+      {
+        "id": "33ea114d-4310-419d-ab79-7c83532b2994",
+        "price": 97704,
+        "status": "Counteroffer",
+        "date": "2023-08-18T06:15:21.466Z",
+        "created_at": "2023-08-18T14:31:52.280Z",
+        "updated_at": "2023-08-18T23:16:33.736Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "049fa552-0d88-4b7b-b281-91f01891e89f"
+      },
+      {
+        "id": "900eceac-4a12-4d2f-992c-b191e15f893d",
+        "price": 73927,
+        "status": "Expired",
+        "date": "2023-08-18T16:26:12.730Z",
+        "created_at": "2023-08-18T23:21:47.738Z",
+        "updated_at": "2023-08-18T07:19:41.476Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "41a1b605-cefe-4726-88e1-6e6d85901598"
+      }
+    ],
+    "interest": [
+      {
+        "id": "cf6041d7-574e-4ae9-8f3a-a795c49546d2",
+        "date": "2023-08-18T18:15:01.590Z",
+        "created_at": "2023-08-18T20:01:14.091Z",
+        "updated_at": "2023-08-18T23:53:45.989Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "049fa552-0d88-4b7b-b281-91f01891e89f"
+      },
+      {
+        "id": "691f903d-73b5-4e4f-bcea-38e71a5000fc",
+        "date": "2023-08-18T16:46:52.642Z",
+        "created_at": "2023-08-18T22:24:53.194Z",
+        "updated_at": "2023-08-19T03:30:23.804Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "c6eb6288-9905-4d8f-b10e-64380866d062"
+      },
+      {
+        "id": "07a928c5-8049-4ddb-ab08-66727233a64c",
+        "date": "2023-08-18T04:49:35.380Z",
+        "created_at": "2023-08-18T15:14:36.420Z",
+        "updated_at": "2023-08-18T06:28:12.112Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "049fa552-0d88-4b7b-b281-91f01891e89f"
+      },
+      {
+        "id": "a62c5f8c-b619-4bd7-a7be-0cfab73098f8",
+        "date": "2023-08-19T00:13:50.897Z",
+        "created_at": "2023-08-18T05:06:18.464Z",
+        "updated_at": "2023-08-19T04:04:50.345Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "982408ff-d8a9-4f58-ab63-0fc6a3783a31"
+      },
+      {
+        "id": "e9ce1df5-b057-4153-8ed8-d52eda536efb",
+        "date": "2023-08-19T03:08:51.024Z",
+        "created_at": "2023-08-19T04:17:34.459Z",
+        "updated_at": "2023-08-19T00:33:23.152Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "0a3ae600-5a77-43ff-a3a4-a942e273c081"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "34304c57-ffa1-48eb-b1f1-61a8d5f6d3ad",
+        "report": "Detailed inspection report with recommendations",
+        "date": "2023-08-18T08:23:27.922Z",
+        "created_at": "2023-08-18T21:42:28.033Z",
+        "updated_at": "2023-08-18T23:18:53.895Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "049fa552-0d88-4b7b-b281-91f01891e89f"
+      },
+      {
+        "id": "1204590d-4cdc-4d7d-9cf1-31c53d0351d2",
+        "report": "Comprehensive assessment of property condition",
+        "date": "2023-08-18T06:24:41.307Z",
+        "created_at": "2023-08-18T15:24:28.734Z",
+        "updated_at": "2023-08-18T10:19:53.870Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "41a1b605-cefe-4726-88e1-6e6d85901598"
+      },
+      {
+        "id": "206fb698-58b2-4298-b3ff-6b24f2cfec81",
+        "report": "Thorough examination of structural integrity",
+        "date": "2023-08-18T04:46:43.537Z",
+        "created_at": "2023-08-18T06:18:35.307Z",
+        "updated_at": "2023-08-18T11:07:29.822Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "049fa552-0d88-4b7b-b281-91f01891e89f"
+      },
+      {
+        "id": "13e494ff-5094-462f-b402-585834db4604",
+        "report": "In-depth analysis of safety standards",
+        "date": "2023-08-18T11:04:11.508Z",
+        "created_at": "2023-08-18T15:04:12.420Z",
+        "updated_at": "2023-08-18T09:57:15.430Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "982408ff-d8a9-4f58-ab63-0fc6a3783a31"
+      },
+      {
+        "id": "36bcba17-fd6d-4a43-ad7b-da60f1d44f33",
+        "report": "Complete evaluation of maintenance requirements",
+        "date": "2023-08-18T15:40:33.435Z",
+        "created_at": "2023-08-18T14:44:15.737Z",
+        "updated_at": "2023-08-18T21:33:29.553Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "049fa552-0d88-4b7b-b281-91f01891e89f"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9d788a55-bd67-46d8-bbbb-273c9006a5c0",
+        "email": "Ethyl24@gmail.com",
+        "firstName": "Kimberly",
+        "lastName": "Dietrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99414326",
+        "tenantId": null
+      },
+      {
+        "reference": "c81a7991-adc5-4973-950d-e95c95a24ef7",
+        "email": "Bartholome8@gmail.com",
+        "firstName": "Deron",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/368.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0a8283bc-a3df-4db7-8c29-ddc64c9fe6c3",
+        "email": "Brain.Feest15@gmail.com",
+        "firstName": "Benny",
+        "lastName": "Skiles",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/999.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9ad9da0b-4e4f-4a5b-a2b1-9b150e832bcb",
+        "email": "Walter25@hotmail.com",
+        "firstName": "Roy",
+        "lastName": "Olson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60303555",
+        "tenantId": null
+      },
+      {
+        "reference": "31838bcb-a134-49ce-8fff-8c76aeba6b6a",
+        "email": "Zion.Ruecker48@hotmail.com",
+        "firstName": "Emmy",
+        "lastName": "Champlin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/117.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "47b89002-50db-422e-847d-7396eb30b554",
+        "title": "Cozy Cottage",
+        "location": "New York",
+        "price": 2334,
+        "size": 32272,
+        "created_at": "2023-08-19T02:20:10.273Z",
+        "updated_at": "2023-08-19T03:54:20.342Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "8d4c36ff-396f-4004-9ac7-39c9c3274f6f",
+        "title": "Modern Apartment",
+        "location": "Los Angeles",
+        "price": 68314,
+        "size": 8784,
+        "created_at": "2023-08-19T00:14:51.732Z",
+        "updated_at": "2023-08-19T00:37:31.744Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "4b1ec09d-dd37-4d7d-bb51-4f04abb50665",
+        "title": "Spacious Villa",
+        "location": "London",
+        "price": 68018,
+        "size": 7872,
+        "created_at": "2023-08-18T09:21:35.261Z",
+        "updated_at": "2023-08-18T20:08:13.232Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "1a1adebb-26fb-4a3d-ac66-166d81449028",
+        "title": "Rustic Cabin",
+        "location": "Paris",
+        "price": 77494,
+        "size": 94395,
+        "created_at": "2023-08-19T00:22:52.245Z",
+        "updated_at": "2023-08-18T14:31:12.629Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "c58e67f4-36c8-4b89-b6fd-6d5fe3fc787f",
+        "title": "Luxury Penthouse",
+        "location": "Tokyo",
+        "price": 48448,
+        "size": 12887,
+        "created_at": "2023-08-18T21:29:53.195Z",
+        "updated_at": "2023-08-18T06:49:49.968Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "cf79496f-b54d-4b30-b3b9-80f825b87130",
+        "price": 48246,
+        "status": "Pending",
+        "date": "2023-08-18T16:24:56.353Z",
+        "created_at": "2023-08-19T04:31:44.152Z",
+        "updated_at": "2023-08-18T22:07:16.169Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "c58e67f4-36c8-4b89-b6fd-6d5fe3fc787f"
+      },
+      {
+        "id": "d5ec52db-a5bf-4229-8103-b67f2cb214e0",
+        "price": 96303,
+        "status": "Accepted",
+        "date": "2023-08-18T22:11:50.149Z",
+        "created_at": "2023-08-18T08:54:20.324Z",
+        "updated_at": "2023-08-18T09:50:31.161Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "8d4c36ff-396f-4004-9ac7-39c9c3274f6f"
+      },
+      {
+        "id": "57fd6414-c226-42ee-bc1e-af9c87de4b90",
+        "price": 93420,
+        "status": "Rejected",
+        "date": "2023-08-18T07:20:17.205Z",
+        "created_at": "2023-08-18T08:51:53.382Z",
+        "updated_at": "2023-08-18T06:41:37.988Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "4b1ec09d-dd37-4d7d-bb51-4f04abb50665"
+      },
+      {
+        "id": "cc40422b-ce6c-4475-a861-122da72cea99",
+        "price": 84007,
+        "status": "Counteroffer",
+        "date": "2023-08-19T04:32:48.543Z",
+        "created_at": "2023-08-19T03:48:56.918Z",
+        "updated_at": "2023-08-18T18:42:35.664Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "8d4c36ff-396f-4004-9ac7-39c9c3274f6f"
+      },
+      {
+        "id": "baf2089d-9adc-4d6b-9774-ee9e3e2eaebf",
+        "price": 62280,
+        "status": "Expired",
+        "date": "2023-08-18T05:49:15.288Z",
+        "created_at": "2023-08-18T11:00:30.533Z",
+        "updated_at": "2023-08-19T04:40:48.858Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "8d4c36ff-396f-4004-9ac7-39c9c3274f6f"
+      }
+    ],
+    "interest": [
+      {
+        "id": "42bcd8c3-de60-4f9b-a8f3-3f27892b4873",
+        "date": "2023-08-18T15:56:57.857Z",
+        "created_at": "2023-08-18T20:09:10.177Z",
+        "updated_at": "2023-08-18T20:52:28.009Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "1a1adebb-26fb-4a3d-ac66-166d81449028"
+      },
+      {
+        "id": "9282d9e3-3f78-4389-a15a-85de53cba29c",
+        "date": "2023-08-18T04:53:18.778Z",
+        "created_at": "2023-08-18T08:39:07.043Z",
+        "updated_at": "2023-08-18T11:24:41.858Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "8d4c36ff-396f-4004-9ac7-39c9c3274f6f"
+      },
+      {
+        "id": "c4b20a1b-2351-4fa0-8cd4-ad2126a072d6",
+        "date": "2023-08-18T22:06:37.424Z",
+        "created_at": "2023-08-18T19:50:53.276Z",
+        "updated_at": "2023-08-18T06:21:50.191Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "47b89002-50db-422e-847d-7396eb30b554"
+      },
+      {
+        "id": "d9b5fa4e-6db7-428b-9e39-f1b8fb735d37",
+        "date": "2023-08-18T23:16:43.153Z",
+        "created_at": "2023-08-18T22:41:52.939Z",
+        "updated_at": "2023-08-18T22:43:09.183Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "4b1ec09d-dd37-4d7d-bb51-4f04abb50665"
+      },
+      {
+        "id": "d967bb4c-1ce7-4791-95c3-fcdc72b50a2f",
+        "date": "2023-08-19T04:05:18.959Z",
+        "created_at": "2023-08-18T13:10:53.889Z",
+        "updated_at": "2023-08-19T02:49:05.542Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "8d4c36ff-396f-4004-9ac7-39c9c3274f6f"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "2a8cb200-982d-4056-b171-f81962c1085a",
+        "report": "Excellent condition with no major issues",
+        "date": "2023-08-18T22:18:22.645Z",
+        "created_at": "2023-08-18T05:35:11.367Z",
+        "updated_at": "2023-08-18T14:35:58.796Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "c58e67f4-36c8-4b89-b6fd-6d5fe3fc787f"
+      },
+      {
+        "id": "effbe8ba-7d98-4d43-a9fa-7d0c36515334",
+        "report": "Minor repairs required",
+        "date": "2023-08-18T07:02:19.351Z",
+        "created_at": "2023-08-19T04:22:19.845Z",
+        "updated_at": "2023-08-18T07:08:52.425Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "8d4c36ff-396f-4004-9ac7-39c9c3274f6f"
+      },
+      {
+        "id": "d2e3b61a-6c7e-4510-a551-491b4931dba5",
+        "report": "Structural damage identified",
+        "date": "2023-08-18T19:41:24.442Z",
+        "created_at": "2023-08-18T13:47:55.342Z",
+        "updated_at": "2023-08-18T12:12:19.488Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "8d4c36ff-396f-4004-9ac7-39c9c3274f6f"
+      },
+      {
+        "id": "c3f59e8d-f290-4a79-a7a7-c3cc0f8cd874",
+        "report": "Recommend further investigation",
+        "date": "2023-08-19T03:31:26.622Z",
+        "created_at": "2023-08-19T01:40:28.694Z",
+        "updated_at": "2023-08-19T00:21:34.088Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "4b1ec09d-dd37-4d7d-bb51-4f04abb50665"
+      },
+      {
+        "id": "c96a9b59-8136-437c-a441-370afe5742f2",
+        "report": "Overall satisfactory",
+        "date": "2023-08-18T07:23:11.426Z",
+        "created_at": "2023-08-18T09:21:06.825Z",
+        "updated_at": "2023-08-18T17:39:18.281Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "c58e67f4-36c8-4b89-b6fd-6d5fe3fc787f"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "91aaa8bf-4b42-4b50-a0d8-543a5e35c81b",
+        "email": "Casey_Prosacco-Rolfson@yahoo.com",
+        "firstName": "Armani",
+        "lastName": "Tillman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83695406",
+        "tenantId": null
+      },
+      {
+        "reference": "d8403ee6-48e8-4563-8586-739176cb1094",
+        "email": "Markus.Thiel63@yahoo.com",
+        "firstName": "Vince",
+        "lastName": "Cummings",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84417944",
+        "tenantId": null
+      },
+      {
+        "reference": "53058f1a-9ab9-4491-ac2c-849c7f900fb7",
+        "email": "Ashtyn97@yahoo.com",
+        "firstName": "Weston",
+        "lastName": "Kohler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89515856",
+        "tenantId": null
+      },
+      {
+        "reference": "7e2848e3-32c4-4c9e-9764-37cff2f3207b",
+        "email": "Dock45@gmail.com",
+        "firstName": "Esperanza",
+        "lastName": "Bahringer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57705393",
+        "tenantId": null
+      },
+      {
+        "reference": "360d82be-bcbe-4c21-8e11-ba585dff36b3",
+        "email": "Dorcas72@gmail.com",
+        "firstName": "Riley",
+        "lastName": "Rice",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50549653",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "e77a6121-df95-4aff-9bad-51fbcff15e4f",
+        "title": "Cozy Cottage",
+        "location": "New York",
+        "price": 27272,
+        "size": 11751,
+        "created_at": "2023-08-18T14:02:24.621Z",
+        "updated_at": "2023-08-18T06:29:47.218Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "4cefb09a-4c9a-4576-b488-1c2ce271e979",
+        "title": "Modern Apartment",
+        "location": "Los Angeles",
+        "price": 65962,
+        "size": 5861,
+        "created_at": "2023-08-18T09:43:46.377Z",
+        "updated_at": "2023-08-18T14:24:57.324Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "e7e3ef16-eb52-428d-8051-eae8c5bcdeb7",
+        "title": "Spacious Villa",
+        "location": "London",
+        "price": 27802,
+        "size": 4,
+        "created_at": "2023-08-18T09:11:28.556Z",
+        "updated_at": "2023-08-19T03:36:10.564Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "359f0880-2f13-4dc0-8e43-5af148d73162",
+        "title": "Rustic Cabin",
+        "location": "Paris",
+        "price": 48292,
+        "size": 4701,
+        "created_at": "2023-08-19T00:32:54.614Z",
+        "updated_at": "2023-08-19T00:19:26.692Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "828e4399-4f08-4c98-aebf-868d338a8663",
+        "title": "Luxury Condo",
+        "location": "Tokyo",
+        "price": 80923,
+        "size": 8084,
+        "created_at": "2023-08-18T09:16:34.676Z",
+        "updated_at": "2023-08-18T04:56:04.047Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "ddb60648-4213-4cac-917a-9feac359baed",
+        "price": 82045,
+        "status": "Pending",
+        "date": "2023-08-18T13:34:55.358Z",
+        "created_at": "2023-08-18T19:44:17.494Z",
+        "updated_at": "2023-08-18T17:19:58.649Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "4cefb09a-4c9a-4576-b488-1c2ce271e979"
+      },
+      {
+        "id": "a9775239-882b-4308-8bf6-db08fb5487d1",
+        "price": 46261,
+        "status": "Accepted",
+        "date": "2023-08-18T21:30:19.578Z",
+        "created_at": "2023-08-19T03:58:25.017Z",
+        "updated_at": "2023-08-18T19:01:37.039Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "828e4399-4f08-4c98-aebf-868d338a8663"
+      },
+      {
+        "id": "3d398a00-d061-439e-984a-f5236ec2c21b",
+        "price": 29730,
+        "status": "Rejected",
+        "date": "2023-08-18T23:35:37.277Z",
+        "created_at": "2023-08-18T08:06:48.973Z",
+        "updated_at": "2023-08-19T02:48:12.276Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "e7e3ef16-eb52-428d-8051-eae8c5bcdeb7"
+      },
+      {
+        "id": "56512392-a63f-4659-aaba-d6318453b4ea",
+        "price": 92274,
+        "status": "Counter Offer",
+        "date": "2023-08-19T04:06:08.495Z",
+        "created_at": "2023-08-18T16:31:36.223Z",
+        "updated_at": "2023-08-19T04:33:05.361Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "e7e3ef16-eb52-428d-8051-eae8c5bcdeb7"
+      },
+      {
+        "id": "7668170f-9f66-47d7-be83-4efb5b43f130",
+        "price": 55034,
+        "status": "Expired",
+        "date": "2023-08-19T01:31:25.250Z",
+        "created_at": "2023-08-18T09:43:39.821Z",
+        "updated_at": "2023-08-19T01:57:46.265Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "359f0880-2f13-4dc0-8e43-5af148d73162"
+      }
+    ],
+    "interest": [
+      {
+        "id": "7c6edb46-508d-4a75-8be1-5f427b9b9976",
+        "date": "2023-08-19T01:15:28.635Z",
+        "created_at": "2023-08-18T19:20:13.529Z",
+        "updated_at": "2023-08-18T08:40:55.308Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "828e4399-4f08-4c98-aebf-868d338a8663"
+      },
+      {
+        "id": "9577a3c9-f2bc-4aac-929a-0efdf09527c1",
+        "date": "2023-08-18T05:53:43.769Z",
+        "created_at": "2023-08-19T01:21:59.511Z",
+        "updated_at": "2023-08-19T01:23:58.792Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "828e4399-4f08-4c98-aebf-868d338a8663"
+      },
+      {
+        "id": "5b8cb434-e837-4c0b-ae54-4eb72b050198",
+        "date": "2023-08-18T09:15:55.248Z",
+        "created_at": "2023-08-18T22:20:01.587Z",
+        "updated_at": "2023-08-19T04:37:55.356Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "828e4399-4f08-4c98-aebf-868d338a8663"
+      },
+      {
+        "id": "a633efe9-75c4-4f5a-bcb7-5ee65ea04d1c",
+        "date": "2023-08-18T08:04:08.912Z",
+        "created_at": "2023-08-18T08:25:06.940Z",
+        "updated_at": "2023-08-18T08:03:19.848Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "e77a6121-df95-4aff-9bad-51fbcff15e4f"
+      },
+      {
+        "id": "667ef01c-2588-4ffb-9b2f-c298f5ee9f1a",
+        "date": "2023-08-18T20:58:41.722Z",
+        "created_at": "2023-08-18T17:45:38.570Z",
+        "updated_at": "2023-08-18T07:06:44.740Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "e7e3ef16-eb52-428d-8051-eae8c5bcdeb7"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "53664bbd-84c6-4f28-b523-721df51b923c",
+        "report": "Excellent condition with no issues",
+        "date": "2023-08-18T22:00:55.264Z",
+        "created_at": "2023-08-18T08:20:32.180Z",
+        "updated_at": "2023-08-18T07:20:49.463Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "828e4399-4f08-4c98-aebf-868d338a8663"
+      },
+      {
+        "id": "d75d846a-4b68-45f4-8106-70e7c589810f",
+        "report": "Minor repairs needed",
+        "date": "2023-08-19T04:16:50.420Z",
+        "created_at": "2023-08-18T06:34:31.818Z",
+        "updated_at": "2023-08-18T15:35:17.732Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "359f0880-2f13-4dc0-8e43-5af148d73162"
+      },
+      {
+        "id": "d0310d1e-fcbf-43db-8e2b-5eb3516dcd32",
+        "report": "Structural damage found",
+        "date": "2023-08-18T05:59:52.505Z",
+        "created_at": "2023-08-18T09:38:26.987Z",
+        "updated_at": "2023-08-18T21:32:35.776Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "359f0880-2f13-4dc0-8e43-5af148d73162"
+      },
+      {
+        "id": "7d5bb1a4-548d-4e4f-848a-d2ba90a44a45",
+        "report": "Electrical system needs attention",
+        "date": "2023-08-18T06:27:41.050Z",
+        "created_at": "2023-08-19T00:38:25.046Z",
+        "updated_at": "2023-08-19T03:06:42.395Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "e77a6121-df95-4aff-9bad-51fbcff15e4f"
+      },
+      {
+        "id": "7d0223d1-8812-4630-8bf3-bcb850a49508",
+        "report": "Plumbing issues discovered",
+        "date": "2023-08-18T15:18:45.137Z",
+        "created_at": "2023-08-18T05:09:40.215Z",
+        "updated_at": "2023-08-18T12:06:14.135Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "828e4399-4f08-4c98-aebf-868d338a8663"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d7a16be2-4b9e-4aeb-ad2e-c6c427c65b70",
+        "email": "Jules36@yahoo.com",
+        "firstName": "Walker",
+        "lastName": "Kuhic",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/26.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "17bfe8e0-80b7-4056-9e88-8abb97acdc47",
+        "email": "Cale.Kertzmann63@hotmail.com",
+        "firstName": "Aiyana",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44030346",
+        "tenantId": null
+      },
+      {
+        "reference": "431c571e-f4fe-470f-85a0-27611fa02683",
+        "email": "Oleta.Crist@yahoo.com",
+        "firstName": "Ed",
+        "lastName": "Smitham-Feil",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/181.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e7fcf68f-1589-47d9-af94-1edf35b9fafc",
+        "email": "Florine_Feil@hotmail.com",
+        "firstName": "Freda",
+        "lastName": "Aufderhar",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17830068",
+        "tenantId": null
+      },
+      {
+        "reference": "6183a83e-253b-4f39-a53c-9bf6e3ca0ff7",
+        "email": "Brannon.Torphy@gmail.com",
+        "firstName": "Nova",
+        "lastName": "Rosenbaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/454.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "a27c42e2-2aa1-4a34-8767-14d99038b70f",
+        "title": "Cozy Cottage",
+        "location": "New York",
+        "price": 67384,
+        "size": 52437,
+        "created_at": "2023-08-18T09:17:00.081Z",
+        "updated_at": "2023-08-18T12:14:55.773Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "72b396b6-d58f-4126-9bf4-08e58f8b7a0b",
+        "title": "Modern Apartment",
+        "location": "London",
+        "price": 7935,
+        "size": 30713,
+        "created_at": "2023-08-18T20:12:50.805Z",
+        "updated_at": "2023-08-18T05:50:10.506Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "c21f3c64-b886-4d8d-9a06-0c487f6aaa81",
+        "title": "Spacious Villa",
+        "location": "Paris",
+        "price": 71401,
+        "size": 62423,
+        "created_at": "2023-08-19T04:14:26.006Z",
+        "updated_at": "2023-08-18T17:44:28.793Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "c63b6467-d83d-4308-a8fb-dc07091de0da",
+        "title": "Charming Bungalow",
+        "location": "Tokyo",
+        "price": 73009,
+        "size": 42029,
+        "created_at": "2023-08-18T16:15:57.706Z",
+        "updated_at": "2023-08-18T12:42:46.873Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "696f94b9-3645-41d7-8f34-86acc7fecf37",
+        "title": "Luxury Penthouse",
+        "location": "Sydney",
+        "price": 66229,
+        "size": 51643,
+        "created_at": "2023-08-18T23:41:14.678Z",
+        "updated_at": "2023-08-19T00:42:12.078Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "c69d851a-1f5d-4768-ad95-e3abca951b34",
+        "price": 20127,
+        "status": "Pending",
+        "date": "2023-08-18T15:55:05.208Z",
+        "created_at": "2023-08-18T15:19:58.887Z",
+        "updated_at": "2023-08-18T20:03:08.979Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "c63b6467-d83d-4308-a8fb-dc07091de0da"
+      },
+      {
+        "id": "0d91f109-5ab5-4971-882e-0d891a3661dd",
+        "price": 36228,
+        "status": "Accepted",
+        "date": "2023-08-18T10:15:30.748Z",
+        "created_at": "2023-08-18T13:37:58.422Z",
+        "updated_at": "2023-08-18T13:48:36.795Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "c21f3c64-b886-4d8d-9a06-0c487f6aaa81"
+      },
+      {
+        "id": "11494549-ce79-427c-a593-7b0704552686",
+        "price": 27623,
+        "status": "Rejected",
+        "date": "2023-08-18T12:45:08.886Z",
+        "created_at": "2023-08-18T14:44:25.862Z",
+        "updated_at": "2023-08-19T03:00:50.669Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "696f94b9-3645-41d7-8f34-86acc7fecf37"
+      },
+      {
+        "id": "fb307d4e-2700-49b3-aeff-0d44779958c2",
+        "price": 64275,
+        "status": "Counteroffer",
+        "date": "2023-08-18T18:27:55.420Z",
+        "created_at": "2023-08-18T12:11:43.126Z",
+        "updated_at": "2023-08-18T05:38:15.539Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "72b396b6-d58f-4126-9bf4-08e58f8b7a0b"
+      },
+      {
+        "id": "4cf45c74-de1e-4e42-ad65-c2080489f16b",
+        "price": 35929,
+        "status": "Expired",
+        "date": "2023-08-19T03:59:06.897Z",
+        "created_at": "2023-08-18T13:14:04.524Z",
+        "updated_at": "2023-08-18T22:33:16.135Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "c63b6467-d83d-4308-a8fb-dc07091de0da"
+      }
+    ],
+    "interest": [
+      {
+        "id": "65532e79-e9b3-4fee-a758-8e4f18256769",
+        "date": "2023-08-19T03:26:13.482Z",
+        "created_at": "2023-08-18T06:41:07.372Z",
+        "updated_at": "2023-08-18T09:29:52.798Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "a27c42e2-2aa1-4a34-8767-14d99038b70f"
+      },
+      {
+        "id": "eb77bbcd-bb32-48b8-868d-f5ad13674428",
+        "date": "2023-08-18T08:44:30.140Z",
+        "created_at": "2023-08-19T04:07:53.208Z",
+        "updated_at": "2023-08-18T10:38:46.247Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "c63b6467-d83d-4308-a8fb-dc07091de0da"
+      },
+      {
+        "id": "ce13f56c-4385-4214-a410-a8f4e0044d84",
+        "date": "2023-08-18T15:41:15.776Z",
+        "created_at": "2023-08-18T11:41:09.292Z",
+        "updated_at": "2023-08-18T19:56:09.493Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "a27c42e2-2aa1-4a34-8767-14d99038b70f"
+      },
+      {
+        "id": "e0ad158a-6a87-49e5-9fd5-40991c23e9b9",
+        "date": "2023-08-19T02:55:04.697Z",
+        "created_at": "2023-08-18T12:33:01.836Z",
+        "updated_at": "2023-08-18T17:49:15.870Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "72b396b6-d58f-4126-9bf4-08e58f8b7a0b"
+      },
+      {
+        "id": "3034fe56-3270-48a0-bbbe-c5914eb1c939",
+        "date": "2023-08-18T10:13:02.419Z",
+        "created_at": "2023-08-18T09:20:15.099Z",
+        "updated_at": "2023-08-18T13:27:09.624Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "696f94b9-3645-41d7-8f34-86acc7fecf37"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "d670e4d5-ff15-47da-bce0-be155636754a",
+        "report": "Detailed inspection report",
+        "date": "2023-08-19T02:12:41.542Z",
+        "created_at": "2023-08-18T10:23:36.140Z",
+        "updated_at": "2023-08-19T03:30:05.474Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "a27c42e2-2aa1-4a34-8767-14d99038b70f"
+      },
+      {
+        "id": "29883182-5757-443d-91b3-8e9418fd37d9",
+        "report": "Thorough property evaluation",
+        "date": "2023-08-19T01:20:10.886Z",
+        "created_at": "2023-08-18T06:14:09.395Z",
+        "updated_at": "2023-08-18T08:22:31.783Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "a27c42e2-2aa1-4a34-8767-14d99038b70f"
+      },
+      {
+        "id": "320f7a64-1165-4759-bb64-41483fefe371",
+        "report": "Comprehensive assessment findings",
+        "date": "2023-08-19T04:04:23.789Z",
+        "created_at": "2023-08-19T03:48:53.596Z",
+        "updated_at": "2023-08-19T02:58:25.507Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "c21f3c64-b886-4d8d-9a06-0c487f6aaa81"
+      },
+      {
+        "id": "843193d2-d43d-49bd-9a42-914b7ed739ef",
+        "report": "Inspection summary and recommendations",
+        "date": "2023-08-18T16:04:46.965Z",
+        "created_at": "2023-08-18T06:55:22.607Z",
+        "updated_at": "2023-08-19T02:39:15.462Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "c21f3c64-b886-4d8d-9a06-0c487f6aaa81"
+      },
+      {
+        "id": "ed594d3f-6fbd-4bbc-b5e9-ae1b37dee2fd",
+        "report": "In-depth analysis of property condition",
+        "date": "2023-08-18T16:39:39.780Z",
+        "created_at": "2023-08-18T05:57:54.729Z",
+        "updated_at": "2023-08-18T16:31:38.845Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "a27c42e2-2aa1-4a34-8767-14d99038b70f"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "12013271-3af3-485f-b319-967e5bde2132",
+        "email": "Karlie.Ullrich@yahoo.com",
+        "firstName": "Garrison",
+        "lastName": "Carter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1065.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "184c80ca-1a85-4fab-b8f7-23db441f8e10",
+        "email": "Laney.Fisher8@hotmail.com",
+        "firstName": "Ellen",
+        "lastName": "Williamson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/4.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8cb20d00-222f-4d0e-815e-a852406fe340",
+        "email": "Cornell.Ankunding36@hotmail.com",
+        "firstName": "Jacquelyn",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24021915",
+        "tenantId": null
+      },
+      {
+        "reference": "a8e82b5a-59cd-4ef5-9735-d320159a9a09",
+        "email": "Myles_Reilly22@gmail.com",
+        "firstName": "Kobe",
+        "lastName": "Luettgen-Marks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55442018",
+        "tenantId": null
+      },
+      {
+        "reference": "735cdd91-3ec2-4988-91c4-4714feb5899b",
+        "email": "Godfrey.Emard@hotmail.com",
+        "firstName": "Jasper",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/714.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "03d23d10-78c7-4ea2-b211-f5f6d5bc1296",
+        "title": "Beautiful Villa",
+        "location": "New York",
+        "price": 3914,
+        "size": 38987,
+        "created_at": "2023-08-18T08:36:16.759Z",
+        "updated_at": "2023-08-19T01:29:50.006Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "f2338f1c-4d7e-45b1-8137-3f876af23420",
+        "title": "Cozy Apartment",
+        "location": "Los Angeles",
+        "price": 89170,
+        "size": 60108,
+        "created_at": "2023-08-19T00:47:59.146Z",
+        "updated_at": "2023-08-19T02:04:22.950Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "c72b5ab1-14b6-483a-881f-8caae1876450",
+        "title": "Spacious House",
+        "location": "London",
+        "price": 46484,
+        "size": 90805,
+        "created_at": "2023-08-18T19:06:19.258Z",
+        "updated_at": "2023-08-18T08:07:58.681Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "ce01428c-a8ad-4597-8c53-e51cb2247e0f",
+        "title": "Luxury Condo",
+        "location": "Paris",
+        "price": 55524,
+        "size": 30194,
+        "created_at": "2023-08-18T12:33:02.380Z",
+        "updated_at": "2023-08-18T05:17:24.197Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "ec2e0dbb-a47b-4bd2-8836-21d023f9ff06",
+        "title": "Charming Cottage",
+        "location": "Tokyo",
+        "price": 1120,
+        "size": 21859,
+        "created_at": "2023-08-18T07:40:18.470Z",
+        "updated_at": "2023-08-18T23:42:33.581Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "5f4b3d16-240a-4621-bae1-4b73d62c12e1",
+        "price": 17725,
+        "status": "Pending",
+        "date": "2023-08-18T19:08:31.539Z",
+        "created_at": "2023-08-18T21:44:48.466Z",
+        "updated_at": "2023-08-18T22:10:38.613Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "ce01428c-a8ad-4597-8c53-e51cb2247e0f"
+      },
+      {
+        "id": "09a15d77-c268-4242-920e-8ec188667a23",
+        "price": 59881,
+        "status": "Accepted",
+        "date": "2023-08-18T23:19:02.093Z",
+        "created_at": "2023-08-18T20:40:35.568Z",
+        "updated_at": "2023-08-19T03:21:37.535Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "c72b5ab1-14b6-483a-881f-8caae1876450"
+      },
+      {
+        "id": "122b5a16-ed76-4c91-b2b9-c9669c522bcb",
+        "price": 49767,
+        "status": "Rejected",
+        "date": "2023-08-18T17:27:03.666Z",
+        "created_at": "2023-08-18T21:06:39.286Z",
+        "updated_at": "2023-08-18T18:09:18.324Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "03d23d10-78c7-4ea2-b211-f5f6d5bc1296"
+      },
+      {
+        "id": "4330f64a-4927-447d-b6b4-459b57b81a5f",
+        "price": 69401,
+        "status": "Counteroffer",
+        "date": "2023-08-18T18:20:29.705Z",
+        "created_at": "2023-08-18T18:23:32.411Z",
+        "updated_at": "2023-08-18T15:02:03.190Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "ce01428c-a8ad-4597-8c53-e51cb2247e0f"
+      },
+      {
+        "id": "7d8cd6d8-5d76-404f-a798-ca828386d337",
+        "price": 42348,
+        "status": "Expired",
+        "date": "2023-08-18T13:22:49.741Z",
+        "created_at": "2023-08-19T03:16:25.483Z",
+        "updated_at": "2023-08-18T17:06:05.639Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "f2338f1c-4d7e-45b1-8137-3f876af23420"
+      }
+    ],
+    "interest": [
+      {
+        "id": "2fbdcae1-dc72-4917-96bd-8b576d0753ce",
+        "date": "2023-08-18T10:36:11.879Z",
+        "created_at": "2023-08-18T15:31:56.884Z",
+        "updated_at": "2023-08-18T05:23:40.449Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "ec2e0dbb-a47b-4bd2-8836-21d023f9ff06"
+      },
+      {
+        "id": "8f77fcec-a949-4d3e-9ec6-afd19762eef1",
+        "date": "2023-08-18T05:34:04.095Z",
+        "created_at": "2023-08-18T10:32:40.393Z",
+        "updated_at": "2023-08-19T04:03:52.771Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "ec2e0dbb-a47b-4bd2-8836-21d023f9ff06"
+      },
+      {
+        "id": "fc750d1c-dcaf-4a6f-9c74-a8c171ca8a8c",
+        "date": "2023-08-19T04:04:42.748Z",
+        "created_at": "2023-08-18T14:08:22.998Z",
+        "updated_at": "2023-08-19T04:37:46.611Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "03d23d10-78c7-4ea2-b211-f5f6d5bc1296"
+      },
+      {
+        "id": "83b94a14-1232-44f2-87bd-d447c2c0e9b6",
+        "date": "2023-08-19T03:47:42.616Z",
+        "created_at": "2023-08-18T06:36:47.543Z",
+        "updated_at": "2023-08-18T17:13:24.018Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "f2338f1c-4d7e-45b1-8137-3f876af23420"
+      },
+      {
+        "id": "5bda9310-5c3c-4c82-8e0b-3f29204d6034",
+        "date": "2023-08-18T14:32:32.749Z",
+        "created_at": "2023-08-19T00:58:03.003Z",
+        "updated_at": "2023-08-18T19:07:15.477Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "03d23d10-78c7-4ea2-b211-f5f6d5bc1296"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "b8d9ef5d-3e3d-48ed-a99b-787e0c6766f0",
+        "report": "Excellent condition with no issues",
+        "date": "2023-08-18T19:04:19.942Z",
+        "created_at": "2023-08-18T07:31:39.456Z",
+        "updated_at": "2023-08-18T13:30:06.344Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "f2338f1c-4d7e-45b1-8137-3f876af23420"
+      },
+      {
+        "id": "a9e956a7-4890-41ee-977a-19f1eac94915",
+        "report": "Minor repairs required",
+        "date": "2023-08-18T17:20:00.179Z",
+        "created_at": "2023-08-18T10:32:57.807Z",
+        "updated_at": "2023-08-18T07:33:35.622Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "03d23d10-78c7-4ea2-b211-f5f6d5bc1296"
+      },
+      {
+        "id": "684626de-b4af-4055-abba-475ed8672d1b",
+        "report": "Structural damage found",
+        "date": "2023-08-18T16:59:47.241Z",
+        "created_at": "2023-08-19T00:26:17.813Z",
+        "updated_at": "2023-08-18T06:21:05.766Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "f2338f1c-4d7e-45b1-8137-3f876af23420"
+      },
+      {
+        "id": "3531f49d-9f5d-4fb3-b4da-c7f1740661f6",
+        "report": "Needs thorough cleaning",
+        "date": "2023-08-18T15:58:33.158Z",
+        "created_at": "2023-08-18T11:43:47.450Z",
+        "updated_at": "2023-08-19T04:34:53.624Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "c72b5ab1-14b6-483a-881f-8caae1876450"
+      },
+      {
+        "id": "de09f9f0-92a2-47c5-91be-7e19b481a2af",
+        "report": "Well-maintained and move-in ready",
+        "date": "2023-08-18T21:10:52.137Z",
+        "created_at": "2023-08-18T17:11:06.133Z",
+        "updated_at": "2023-08-18T19:19:42.197Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "ec2e0dbb-a47b-4bd2-8836-21d023f9ff06"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1d2f4cb0-327c-4c8f-b92b-9d46d56e1541",
+        "email": "Elmo.Harber15@gmail.com",
+        "firstName": "Pearl",
+        "lastName": "Williamson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/141.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "18f38346-ae42-48c4-b2a4-d684dbe4e1ed",
+        "email": "Juanita_Keebler@hotmail.com",
+        "firstName": "Hertha",
+        "lastName": "Thiel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93989344",
+        "tenantId": null
+      },
+      {
+        "reference": "be9c77b2-052c-471c-84e3-cca47c3b3a38",
+        "email": "Mabel_Ryan@yahoo.com",
+        "firstName": "Timmothy",
+        "lastName": "Dicki",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35555475",
+        "tenantId": null
+      },
+      {
+        "reference": "aaf0081d-8e5b-426e-a99f-ccf722a5bbc0",
+        "email": "Martin22@hotmail.com",
+        "firstName": "Demario",
+        "lastName": "Lang",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64868697",
+        "tenantId": null
+      },
+      {
+        "reference": "97f32f42-1444-4631-bd75-4bac7e053ef2",
+        "email": "Davon.Bogisich@yahoo.com",
+        "firstName": "Lonnie",
+        "lastName": "Ziemann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/658.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "4a0bb414-4cd8-41e8-b7e8-3f82084116f5",
+        "title": "Cozy Cottage",
+        "location": "New York",
+        "price": 47366,
+        "size": 22610,
+        "created_at": "2023-08-18T09:42:50.671Z",
+        "updated_at": "2023-08-18T17:16:26.172Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "bcb75222-925f-4df0-a115-c6d6112319d9",
+        "title": "Modern Apartment",
+        "location": "Los Angeles",
+        "price": 26243,
+        "size": 4053,
+        "created_at": "2023-08-19T01:46:01.831Z",
+        "updated_at": "2023-08-18T17:03:11.531Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "22a52a2a-1e37-4cc8-9207-5f64feaf8b68",
+        "title": "Spacious Villa",
+        "location": "London",
+        "price": 74820,
+        "size": 80901,
+        "created_at": "2023-08-18T10:13:11.338Z",
+        "updated_at": "2023-08-18T09:00:53.156Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "861fd451-bcce-4013-9c74-a69b044ed288",
+        "title": "Charming Bungalow",
+        "location": "Paris",
+        "price": 83123,
+        "size": 53085,
+        "created_at": "2023-08-18T12:52:47.616Z",
+        "updated_at": "2023-08-18T05:42:23.809Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "ff27fd62-80c5-490a-bf69-7e13a8f64902",
+        "title": "Luxury Penthouse",
+        "location": "Tokyo",
+        "price": 29434,
+        "size": 55464,
+        "created_at": "2023-08-19T02:05:25.101Z",
+        "updated_at": "2023-08-18T07:26:10.919Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "b26fcee1-6e6e-4951-b4f0-a60ca607e0fe",
+        "price": 84661,
+        "status": "Pending",
+        "date": "2023-08-19T01:30:15.587Z",
+        "created_at": "2023-08-18T06:33:35.858Z",
+        "updated_at": "2023-08-19T00:38:00.978Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "22a52a2a-1e37-4cc8-9207-5f64feaf8b68"
+      },
+      {
+        "id": "e0d597af-5d5f-4f81-84c4-cfb3d1e9b265",
+        "price": 13475,
+        "status": "Accepted",
+        "date": "2023-08-18T11:45:06.945Z",
+        "created_at": "2023-08-18T07:27:46.086Z",
+        "updated_at": "2023-08-18T08:21:31.886Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "861fd451-bcce-4013-9c74-a69b044ed288"
+      },
+      {
+        "id": "8b769bb1-547d-418b-a03c-82a216c74b73",
+        "price": 29633,
+        "status": "Declined",
+        "date": "2023-08-18T23:50:35.141Z",
+        "created_at": "2023-08-18T10:43:13.018Z",
+        "updated_at": "2023-08-18T21:41:11.457Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "22a52a2a-1e37-4cc8-9207-5f64feaf8b68"
+      },
+      {
+        "id": "ab7e3a76-3759-4c72-8d67-3204f569f859",
+        "price": 99477,
+        "status": "Expired",
+        "date": "2023-08-18T20:39:24.507Z",
+        "created_at": "2023-08-18T18:37:37.828Z",
+        "updated_at": "2023-08-19T01:29:10.209Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "bcb75222-925f-4df0-a115-c6d6112319d9"
+      },
+      {
+        "id": "f6b1dd62-f89e-491e-9dc1-161a83d3f165",
+        "price": 59526,
+        "status": "Counteroffer",
+        "date": "2023-08-19T04:18:48.924Z",
+        "created_at": "2023-08-18T17:55:37.016Z",
+        "updated_at": "2023-08-18T20:34:49.015Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "4a0bb414-4cd8-41e8-b7e8-3f82084116f5"
+      }
+    ],
+    "interest": [
+      {
+        "id": "88e87b02-6931-4268-bef0-d89b9be8768f",
+        "date": "2023-08-18T06:58:47.500Z",
+        "created_at": "2023-08-19T01:27:08.411Z",
+        "updated_at": "2023-08-18T10:02:21.215Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "ff27fd62-80c5-490a-bf69-7e13a8f64902"
+      },
+      {
+        "id": "04c33134-9bf1-4b79-a91b-14cd016be698",
+        "date": "2023-08-18T05:31:28.248Z",
+        "created_at": "2023-08-18T05:06:21.053Z",
+        "updated_at": "2023-08-18T18:37:29.292Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "22a52a2a-1e37-4cc8-9207-5f64feaf8b68"
+      },
+      {
+        "id": "65642f7b-4937-4487-98d2-f7684b8605d0",
+        "date": "2023-08-18T08:56:30.994Z",
+        "created_at": "2023-08-18T19:32:34.666Z",
+        "updated_at": "2023-08-19T04:36:14.436Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "22a52a2a-1e37-4cc8-9207-5f64feaf8b68"
+      },
+      {
+        "id": "24320a42-42af-4ff9-b054-edbd338f65db",
+        "date": "2023-08-19T02:55:52.800Z",
+        "created_at": "2023-08-18T13:59:52.408Z",
+        "updated_at": "2023-08-18T14:16:33.340Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "4a0bb414-4cd8-41e8-b7e8-3f82084116f5"
+      },
+      {
+        "id": "ea15ad1d-7439-47e3-bf14-1eb864f1b1b1",
+        "date": "2023-08-18T22:34:30.693Z",
+        "created_at": "2023-08-18T22:05:18.877Z",
+        "updated_at": "2023-08-19T04:38:00.238Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "bcb75222-925f-4df0-a115-c6d6112319d9"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "d9c26d5b-3901-4aa8-948f-4d906a15e07b",
+        "report": "Excellent condition with no major issues",
+        "date": "2023-08-18T07:11:30.501Z",
+        "created_at": "2023-08-18T14:20:32.168Z",
+        "updated_at": "2023-08-18T15:26:01.907Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "22a52a2a-1e37-4cc8-9207-5f64feaf8b68"
+      },
+      {
+        "id": "2a9702d8-5601-4e24-9773-07fa94233272",
+        "report": "Minor repairs needed in kitchen area",
+        "date": "2023-08-18T21:29:13.275Z",
+        "created_at": "2023-08-18T15:13:50.568Z",
+        "updated_at": "2023-08-18T07:20:03.953Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "ff27fd62-80c5-490a-bf69-7e13a8f64902"
+      },
+      {
+        "id": "a25ab98c-717b-47cf-88c8-d1361a9d0955",
+        "report": "Structural integrity is compromised, requires immediate attention",
+        "date": "2023-08-18T04:45:16.913Z",
+        "created_at": "2023-08-18T04:44:30.585Z",
+        "updated_at": "2023-08-18T12:39:48.070Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "861fd451-bcce-4013-9c74-a69b044ed288"
+      },
+      {
+        "id": "957549a4-c80b-4aac-8ae1-446a8e6dac22",
+        "report": "Electrical system needs thorough inspection",
+        "date": "2023-08-19T02:41:16.441Z",
+        "created_at": "2023-08-18T06:30:14.098Z",
+        "updated_at": "2023-08-18T16:29:22.584Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "bcb75222-925f-4df0-a115-c6d6112319d9"
+      },
+      {
+        "id": "46e31500-742d-459b-9541-9b3bad827f85",
+        "report": "Overall satisfactory condition",
+        "date": "2023-08-19T02:48:54.316Z",
+        "created_at": "2023-08-18T16:54:38.420Z",
+        "updated_at": "2023-08-19T04:23:38.601Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "bcb75222-925f-4df0-a115-c6d6112319d9"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5593aec6-2054-4bc6-8130-fada2866b848",
+        "email": "Onie_Ratke@yahoo.com",
+        "firstName": "Evelyn",
+        "lastName": "Brown",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/555.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a513ec73-509d-4f0b-88a4-c3ec686fb846",
+        "email": "Abel.Bartoletti@yahoo.com",
+        "firstName": "Junior",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19862585",
+        "tenantId": null
+      },
+      {
+        "reference": "e2a8f8cf-d8b9-4bec-8cf6-26678a51b180",
+        "email": "Adelbert10@gmail.com",
+        "firstName": "Morton",
+        "lastName": "Cruickshank",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/374.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f6c1b2fe-b444-4f18-9e17-9d092761af94",
+        "email": "Brittany.Schimmel68@yahoo.com",
+        "firstName": "Jaleel",
+        "lastName": "Miller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70899792",
+        "tenantId": null
+      },
+      {
+        "reference": "67a83496-2ead-4236-8bc9-59d3efc08826",
+        "email": "Mose.Kemmer@yahoo.com",
+        "firstName": "Freeda",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/765.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "5067c26f-7cf1-4d3f-9e5b-9a79597e23a9",
+        "title": "Cozy Cottage",
+        "location": "New York",
+        "price": 24077,
+        "size": 30717,
+        "created_at": "2023-08-19T02:30:12.892Z",
+        "updated_at": "2023-08-18T14:55:40.433Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "17f628e1-08ab-42f4-8c37-d76ab0f5d9c1",
+        "title": "Modern Apartment",
+        "location": "London",
+        "price": 25068,
+        "size": 44061,
+        "created_at": "2023-08-18T17:12:28.562Z",
+        "updated_at": "2023-08-18T13:37:55.632Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "bce24cc7-ca12-41e4-bda5-f19058b45223",
+        "title": "Spacious Villa",
+        "location": "Paris",
+        "price": 93111,
+        "size": 73466,
+        "created_at": "2023-08-18T18:02:02.423Z",
+        "updated_at": "2023-08-18T11:58:47.690Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "3d027f86-b896-4020-bfda-1e601da188d5",
+        "title": "Rustic Cabin",
+        "location": "Tokyo",
+        "price": 85369,
+        "size": 27004,
+        "created_at": "2023-08-18T07:12:24.349Z",
+        "updated_at": "2023-08-19T00:19:36.648Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "7fa409e9-ba1c-44f2-9070-75edddcaaa34",
+        "title": "Luxury Penthouse",
+        "location": "Sydney",
+        "price": 52520,
+        "size": 32012,
+        "created_at": "2023-08-18T23:51:41.971Z",
+        "updated_at": "2023-08-19T03:06:09.983Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "e7a98023-739c-4f14-8081-bb26fbf4c3b5",
+        "price": 55663,
+        "status": "Pending",
+        "date": "2023-08-18T18:36:57.069Z",
+        "created_at": "2023-08-18T08:19:33.795Z",
+        "updated_at": "2023-08-19T00:54:30.800Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "7fa409e9-ba1c-44f2-9070-75edddcaaa34"
+      },
+      {
+        "id": "e567a5e0-2325-4676-8176-c2d92d67f78e",
+        "price": 75689,
+        "status": "Accepted",
+        "date": "2023-08-18T07:14:40.935Z",
+        "created_at": "2023-08-18T04:48:33.900Z",
+        "updated_at": "2023-08-18T22:59:34.013Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "5067c26f-7cf1-4d3f-9e5b-9a79597e23a9"
+      },
+      {
+        "id": "f0c66a78-47b3-491e-a659-793494082146",
+        "price": 12856,
+        "status": "Rejected",
+        "date": "2023-08-18T10:22:51.655Z",
+        "created_at": "2023-08-18T10:52:45.432Z",
+        "updated_at": "2023-08-19T04:28:48.639Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "7fa409e9-ba1c-44f2-9070-75edddcaaa34"
+      },
+      {
+        "id": "9b6d8789-d371-4eb2-bc7b-fe1fde9483ab",
+        "price": 51714,
+        "status": "Counteroffer",
+        "date": "2023-08-19T04:21:34.498Z",
+        "created_at": "2023-08-19T00:45:34.882Z",
+        "updated_at": "2023-08-18T07:34:00.749Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "bce24cc7-ca12-41e4-bda5-f19058b45223"
+      },
+      {
+        "id": "b7f9f0b1-dfd9-4a69-9ec8-16aa3f5e222f",
+        "price": 32425,
+        "status": "Expired",
+        "date": "2023-08-18T09:19:19.225Z",
+        "created_at": "2023-08-18T16:09:00.036Z",
+        "updated_at": "2023-08-18T23:27:27.851Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "17f628e1-08ab-42f4-8c37-d76ab0f5d9c1"
+      }
+    ],
+    "interest": [
+      {
+        "id": "569d6021-beaa-4bab-af06-c484a365dfac",
+        "date": "2023-08-19T00:33:19.935Z",
+        "created_at": "2023-08-19T01:04:17.972Z",
+        "updated_at": "2023-08-18T09:47:17.583Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "5067c26f-7cf1-4d3f-9e5b-9a79597e23a9"
+      },
+      {
+        "id": "e9d47359-953c-4469-b7a4-6343f29f9411",
+        "date": "2023-08-18T07:26:45.207Z",
+        "created_at": "2023-08-19T01:54:39.294Z",
+        "updated_at": "2023-08-18T12:49:39.765Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "17f628e1-08ab-42f4-8c37-d76ab0f5d9c1"
+      },
+      {
+        "id": "72f4c53a-0c06-40c5-9d8a-42a098b3fd38",
+        "date": "2023-08-18T16:48:23.543Z",
+        "created_at": "2023-08-19T03:00:09.046Z",
+        "updated_at": "2023-08-19T01:22:52.047Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "5067c26f-7cf1-4d3f-9e5b-9a79597e23a9"
+      },
+      {
+        "id": "a2e22614-234a-4827-bdfc-20d4eecdc3de",
+        "date": "2023-08-18T23:35:02.418Z",
+        "created_at": "2023-08-18T09:27:25.432Z",
+        "updated_at": "2023-08-18T09:01:26.406Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "5067c26f-7cf1-4d3f-9e5b-9a79597e23a9"
+      },
+      {
+        "id": "38cfe140-8380-49d9-b293-d83f39b5646d",
+        "date": "2023-08-18T22:29:22.214Z",
+        "created_at": "2023-08-18T09:59:02.200Z",
+        "updated_at": "2023-08-18T08:12:32.714Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "17f628e1-08ab-42f4-8c37-d76ab0f5d9c1"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "08182bea-8b03-4c7c-ac45-a19200d237ab",
+        "report": "Excellent condition with no issues found",
+        "date": "2023-08-18T22:29:38.917Z",
+        "created_at": "2023-08-18T10:23:25.386Z",
+        "updated_at": "2023-08-19T01:26:21.412Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "17f628e1-08ab-42f4-8c37-d76ab0f5d9c1"
+      },
+      {
+        "id": "385cee3e-274e-486f-9492-04d722f6aa11",
+        "report": "Minor repairs required",
+        "date": "2023-08-18T09:18:21.226Z",
+        "created_at": "2023-08-19T04:29:53.216Z",
+        "updated_at": "2023-08-18T09:20:36.189Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "17f628e1-08ab-42f4-8c37-d76ab0f5d9c1"
+      },
+      {
+        "id": "851eab25-89bf-4c0c-8244-f4c85cb45316",
+        "report": "Significant structural damage detected",
+        "date": "2023-08-18T20:53:06.255Z",
+        "created_at": "2023-08-18T13:56:27.758Z",
+        "updated_at": "2023-08-18T23:54:05.216Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "7fa409e9-ba1c-44f2-9070-75edddcaaa34"
+      },
+      {
+        "id": "303da7d0-2b4f-4263-a4d7-9022e21f895a",
+        "report": "Electrical system needs attention",
+        "date": "2023-08-18T05:52:16.197Z",
+        "created_at": "2023-08-18T23:53:24.865Z",
+        "updated_at": "2023-08-18T19:50:17.046Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "5067c26f-7cf1-4d3f-9e5b-9a79597e23a9"
+      },
+      {
+        "id": "a9ac007d-fd4a-4ecf-bad4-20c3af82918b",
+        "report": "Plumbing issues identified",
+        "date": "2023-08-18T18:17:48.643Z",
+        "created_at": "2023-08-18T12:33:18.780Z",
+        "updated_at": "2023-08-18T19:08:46.528Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "17f628e1-08ab-42f4-8c37-d76ab0f5d9c1"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fc8efe6d-361d-4bac-a993-02f2842c0f21",
+        "email": "Kiel_Ledner@gmail.com",
+        "firstName": "Candido",
+        "lastName": "Towne-Hansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/108.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bd24da24-55cc-471a-94c5-4a7140fdb81a",
+        "email": "Carlie32@yahoo.com",
+        "firstName": "Mack",
+        "lastName": "Jerde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77674054",
+        "tenantId": null
+      },
+      {
+        "reference": "3e31b017-612b-4833-8580-ffacc8e5265f",
+        "email": "Lou.Schamberger97@hotmail.com",
+        "firstName": "Lorenza",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/130.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "55e551c0-87b1-4577-a495-b027d32e8b5f",
+        "email": "Enid.DuBuque58@gmail.com",
+        "firstName": "Rhett",
+        "lastName": "Kunze",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/823.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "226258dd-de86-4760-875f-89855def574f",
+        "email": "Monroe.Runolfsdottir@yahoo.com",
+        "firstName": "Diamond",
+        "lastName": "Pfannerstill",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1221.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "property": [
+      {
+        "id": "f59cb815-5d6b-4251-8234-8897eeded22a",
+        "title": "Cozy Cottage",
+        "location": "New York",
+        "price": 19598,
+        "size": 13097,
+        "created_at": "2023-08-18T08:14:26.014Z",
+        "updated_at": "2023-08-18T13:40:19.052Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "8880c339-d049-4a9e-a220-cb220e6f0915",
+        "title": "Modern Apartment",
+        "location": "Los Angeles",
+        "price": 52643,
+        "size": 65298,
+        "created_at": "2023-08-18T16:58:18.034Z",
+        "updated_at": "2023-08-19T03:21:19.246Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "dcae100b-4504-4069-9a02-5ac2974365ce",
+        "title": "Spacious Villa",
+        "location": "London",
+        "price": 78755,
+        "size": 25167,
+        "created_at": "2023-08-18T12:31:46.220Z",
+        "updated_at": "2023-08-18T19:26:43.707Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "95d6811d-07e0-43d3-8f68-d32537cf2b09",
+        "title": "Rustic Cabin",
+        "location": "Paris",
+        "price": 59572,
+        "size": 3759,
+        "created_at": "2023-08-18T17:06:21.552Z",
+        "updated_at": "2023-08-18T16:03:41.209Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      },
+      {
+        "id": "0fc21097-1837-4712-b865-b610f1cc9300",
+        "title": "Luxury Condo",
+        "location": "Tokyo",
+        "price": 6188,
+        "size": 41611,
+        "created_at": "2023-08-18T21:33:00.703Z",
+        "updated_at": "2023-08-18T22:39:23.096Z",
+        "agent_id": "user_entity_pk",
+        "buyer_id": "user_entity_pk",
+        "seller_id": "user_entity_pk"
+      }
+    ],
+    "offer": [
+      {
+        "id": "efa839fd-48b9-49d4-aebe-a4ec5e6f61a5",
+        "price": 52711,
+        "status": "Pending",
+        "date": "2023-08-18T11:33:35.229Z",
+        "created_at": "2023-08-18T06:58:48.217Z",
+        "updated_at": "2023-08-18T21:22:52.224Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "0fc21097-1837-4712-b865-b610f1cc9300"
+      },
+      {
+        "id": "dee712a9-4404-469f-bcfa-b2f8b9d1dd90",
+        "price": 79472,
+        "status": "Accepted",
+        "date": "2023-08-18T17:05:10.092Z",
+        "created_at": "2023-08-18T22:06:18.363Z",
+        "updated_at": "2023-08-18T20:23:58.357Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "0fc21097-1837-4712-b865-b610f1cc9300"
+      },
+      {
+        "id": "a9fcc404-244d-4623-8221-edaab1fba3d0",
+        "price": 99995,
+        "status": "Declined",
+        "date": "2023-08-18T06:23:55.713Z",
+        "created_at": "2023-08-18T07:23:22.365Z",
+        "updated_at": "2023-08-18T15:34:05.183Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "dcae100b-4504-4069-9a02-5ac2974365ce"
+      },
+      {
+        "id": "9f0eaa36-085d-41b2-ad86-5de7695a12f7",
+        "price": 53857,
+        "status": "Expired",
+        "date": "2023-08-18T13:45:12.416Z",
+        "created_at": "2023-08-18T13:33:53.953Z",
+        "updated_at": "2023-08-19T01:41:03.617Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "dcae100b-4504-4069-9a02-5ac2974365ce"
+      },
+      {
+        "id": "fd9a43c1-4672-4e12-80f8-22fd47b3714c",
+        "price": 64609,
+        "status": "Counteroffer",
+        "date": "2023-08-18T07:16:53.904Z",
+        "created_at": "2023-08-18T09:55:26.689Z",
+        "updated_at": "2023-08-19T01:45:11.773Z",
+        "buyer_id": "user_entity_pk",
+        "property_id": "dcae100b-4504-4069-9a02-5ac2974365ce"
+      }
+    ],
+    "interest": [
+      {
+        "id": "19615e4e-d2e9-4eb2-ba41-6d975d94bd27",
+        "date": "2023-08-18T21:16:09.194Z",
+        "created_at": "2023-08-19T04:20:49.578Z",
+        "updated_at": "2023-08-18T16:42:29.328Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "f59cb815-5d6b-4251-8234-8897eeded22a"
+      },
+      {
+        "id": "76e1ce57-2f36-4162-9e12-6ce10c1a3054",
+        "date": "2023-08-18T14:46:55.483Z",
+        "created_at": "2023-08-18T08:58:19.346Z",
+        "updated_at": "2023-08-19T01:10:14.799Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "f59cb815-5d6b-4251-8234-8897eeded22a"
+      },
+      {
+        "id": "7fdcbe23-2078-4690-9c38-657c28ea6635",
+        "date": "2023-08-18T23:52:07.902Z",
+        "created_at": "2023-08-18T23:52:37.462Z",
+        "updated_at": "2023-08-18T06:39:40.571Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "8880c339-d049-4a9e-a220-cb220e6f0915"
+      },
+      {
+        "id": "49ac7425-f02d-48d5-bae3-36343e4342e4",
+        "date": "2023-08-18T14:46:39.187Z",
+        "created_at": "2023-08-18T13:09:55.492Z",
+        "updated_at": "2023-08-18T22:34:09.505Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "8880c339-d049-4a9e-a220-cb220e6f0915"
+      },
+      {
+        "id": "e2682f90-aa26-4b48-ba00-7812cb12ef6c",
+        "date": "2023-08-18T11:39:46.391Z",
+        "created_at": "2023-08-19T03:56:07.590Z",
+        "updated_at": "2023-08-18T20:26:27.822Z",
+        "customer_id": "user_entity_pk",
+        "property_id": "0fc21097-1837-4712-b865-b610f1cc9300"
+      }
+    ],
+    "inspection": [
+      {
+        "id": "f6eba09f-a4d3-40b9-aaca-a8acf2be1226",
+        "report": "Excellent condition with no major issues",
+        "date": "2023-08-18T22:47:33.083Z",
+        "created_at": "2023-08-19T03:51:33.521Z",
+        "updated_at": "2023-08-18T06:18:07.694Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "0fc21097-1837-4712-b865-b610f1cc9300"
+      },
+      {
+        "id": "f99886c3-aec9-4ee6-ab22-f8449338834f",
+        "report": "Minor repairs needed in the kitchen area",
+        "date": "2023-08-18T21:15:17.918Z",
+        "created_at": "2023-08-18T19:17:26.709Z",
+        "updated_at": "2023-08-18T22:37:16.090Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "dcae100b-4504-4069-9a02-5ac2974365ce"
+      },
+      {
+        "id": "613a830e-0efb-413d-bbe3-9cfdc5d3a1b1",
+        "report": "Electrical system requires further inspection",
+        "date": "2023-08-18T22:52:59.166Z",
+        "created_at": "2023-08-18T19:54:57.287Z",
+        "updated_at": "2023-08-18T23:27:05.328Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "0fc21097-1837-4712-b865-b610f1cc9300"
+      },
+      {
+        "id": "4df4534a-9d96-4fa0-adbe-69ef629d938d",
+        "report": "Structural integrity compromised in the basement",
+        "date": "2023-08-18T12:51:18.635Z",
+        "created_at": "2023-08-18T12:31:34.795Z",
+        "updated_at": "2023-08-18T07:52:00.048Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "8880c339-d049-4a9e-a220-cb220e6f0915"
+      },
+      {
+        "id": "3ab6704a-8d23-4c2f-88e5-9c01bf6b3e74",
+        "report": "Overall well-maintained property",
+        "date": "2023-08-18T14:42:10.792Z",
+        "created_at": "2023-08-18T06:14:48.588Z",
+        "updated_at": "2023-08-18T20:56:12.478Z",
+        "inspector_id": "user_entity_pk",
+        "property_id": "f59cb815-5d6b-4251-8234-8897eeded22a"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "93ca69e8-11f8-4922-bb12-dee0c9b605e6",
+        "email": "Isaias_Goodwin@yahoo.com",
+        "firstName": "Peggie",
+        "lastName": "Murphy",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28073253",
+        "tenantId": null
+      },
+      {
+        "reference": "9985f940-6346-4170-8f9f-4436ca13b191",
+        "email": "Kaylin_Hintz-Goyette@hotmail.com",
+        "firstName": "Elva",
+        "lastName": "Bogan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/312.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7f073b57-33fc-404e-b912-17faa3eaf526",
+        "email": "Oswaldo45@hotmail.com",
+        "firstName": "Enid",
+        "lastName": "Mills",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48732407",
+        "tenantId": null
+      },
+      {
+        "reference": "d3dd7b48-5e1b-48a1-801f-0a07e672f56f",
+        "email": "Sydnie_Douglas@yahoo.com",
+        "firstName": "Alphonso",
+        "lastName": "Kihn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5119190",
+        "tenantId": null
+      },
+      {
+        "reference": "54f9e79e-2198-4e99-ad5b-d3fd0d90b2ab",
+        "email": "Hailey.Maggio-Mann40@yahoo.com",
+        "firstName": "Foster",
+        "lastName": "Schneider",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/16.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
